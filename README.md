@@ -1,4 +1,4 @@
 git clone https://github.com/lifeisnumbers/japanese_learning.git 
-cd vào thư mục đó 
+cd japanese_learning 
 npm i 
 npx expo start 
